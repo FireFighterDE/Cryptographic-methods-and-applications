@@ -4,7 +4,8 @@
 title          : CaesarEncryption.py
 description    : Default description
 author         : Sebastian Pflaum (240646)
-usage          : python CaesarEncryption.py
+usage          : python CaesarEncryption.py 'encrypted string'
+example        : python CaesarEncryption.py 'Lpu lpumhjolz Jhlzhy Ilpzwpls'
 python_version :3.6.3
 """
 
