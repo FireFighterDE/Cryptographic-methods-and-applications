@@ -1,0 +1,106 @@
+PS C:\> python TranspositionEncryption.py 'DtBeelaia elrtntsei  esi iseSnpoinpiptons inars!'
+TranspositionEncryption.py running on Windows
+--------------------------------------
+Passed string to decrypt (encString): DtBeelaia elrtntsei  esi iseSnpoinpiptons inars!
+Length of encrypted string: 48
+--------------------------------------
+
+Running decryption...
+
+--------------------------------------
+decString for K=1: DtBeelaia elrtntsei  esi iseSnpoinpiptons inars!
+--------------------------------------
+decString for K=2: DBeaaernsi s sSpipposiasteli ltte eiienonitn nr!
+--------------------------------------
+decString for K=3: Dea rtie epnpnirteiets siSoptsnsBlalne isniio a!
+--------------------------------------
+decString for K=4: Dears  Sipsatl teeinnt rBaenissppoiseilt ieoinn!
+--------------------------------------
+decString for K=5: Dlet ipisrtalsesop sBireseiti!eatiiSnone n  npna
+--------------------------------------
+decString for K=6: Dari ppitit iotnBan sioae teennreessSpsslleini !
+--------------------------------------
+decString for K=7: DineSiitatsnpnB siptaeee ooreliiinslr sns!at ep
+--------------------------------------
+decString for K=8: Das ist ein Beispiel einer Spaltentransposition!
+--------------------------------------
+decString for K=9: D ieprte StsBl no!erepnetsoslnii at niisipnaesia
+--------------------------------------
+decString for K=10: De pstleo Brsiietinnen paltiirasspsieet!aiSo  nn
+--------------------------------------
+decString for K=11: DlsnatriprBt isenip!etstlseoaeSniinsa p   oieein
+--------------------------------------
+decString for K=12: Dr pttitBnsoetenesSslen aipii ona ia enrespslii!
+--------------------------------------
+decString for K=13: DtsntnesBtS esnieepnlioaa iri nsaep! sieipl trio
+--------------------------------------
+decString for K=14: DnSittnnBspaeeoreiisl n!a pieiasp ite olinrsste
+--------------------------------------
+decString for K=15: DtprtsosBei!eine pl iaepistaio  neisls reitSnnna
+--------------------------------------
+decString for K=16: DsitenBipe ie pletasoiina s i esilenrSatnrnpsto!
+--------------------------------------
+decString for K=17: DeptiiB pe teeolsnaisi  aii sneealSrrnstp!notisn
+--------------------------------------
+decString for K=18: Dipt tB oeenessli a iiinasa ereSsln!rptonitnspei
+--------------------------------------
+decString for K=19: D ot nBeses eiil naiaisraes S!enlprotinntpsiepit
+--------------------------------------
+decString for K=20: D ste Bsieine alirassie!aS neploritnnptispetio n
+--------------------------------------
+decString for K=21: DeitsnBiae reisls!aeiSan peolirntpnitpsteoin s
+--------------------------------------
+decString for K=22: DsatirB sei!esleaSinap oeilnrptinpttsoenis   ien
+--------------------------------------
+decString for K=23: Dist !BieseelSanipao ienlpritpnttosnesi  i neasr
+--------------------------------------
+decString for K=24: D tiBseeeSlnapioai neplirpttnotnsse ii n aerssi!
+--------------------------------------
+decString for K=25: DitsBeeSenlpaoiian peilprttonntss eiin a ress!i
+--------------------------------------
+decString for K=26: DsteBSeneploaiinap iepltrotnnst sienia r se!si i
+--------------------------------------
+decString for K=27: DetSBnepeolianipai petlorntsn tisneair s !esi is
+--------------------------------------
+decString for K=28: DStnBpeoeilnapiiap teolnrst nitnsaeris ! esi ise
+--------------------------------------
+decString for K=29: DntpBoeienlpaiipat oenlsr tinntasresi!  esi iseS
+--------------------------------------
+decString for K=30: DptoBienepliapitao nesl ritnnatrsse!i  esi iseSn
+--------------------------------------
+decString for K=31: DotiBnepeilpatioan se lirntanrtss!ei  esi iseSnp
+--------------------------------------
+decString for K=32: DitnBpeiepltaoinas  eilnratrnst!sei  esi iseSnpo
+--------------------------------------
+decString for K=33: DntpBiepetloanisa  ienlarrtsn!tsei  esi iseSnpoi
+--------------------------------------
+decString for K=34: DptiBpeteolnasi ai nealrrst!ntsei  esi iseSnpoin
+--------------------------------------
+decString for K=35: DitpBteoenlsa iian aerlsr!tntsei  esi iseSnpoinp
+--------------------------------------
+decString for K=36: DpttBoenesl aiinaa resl!rtntsei  esi iseSnpoinpi
+--------------------------------------
+decString for K=37: DttoBnese lianiaar se!lrtntsei  esi iseSnpoinpip
+--------------------------------------
+decString for K=38: DotnBse eilnaairas !elrtntsei  esi iseSnpoinpipt
+--------------------------------------
+decString for K=39: DntsB eienlaarisa! elrtntsei  esi iseSnpoinpipto
+--------------------------------------
+decString for K=40: Dst Bienealrasi!a elrtntsei  esi iseSnpoinpipton
+--------------------------------------
+decString for K=41: D tiBneaerlsa!ia elrtntsei  esi iseSnpoinpiptons
+--------------------------------------
+decString for K=42: DitnBaeresl!aia elrtntsei  esi iseSnpoinpiptons
+--------------------------------------
+decString for K=43: DntaBrese!laia elrtntsei  esi iseSnpoinpiptons i
+--------------------------------------
+decString for K=44: DatrBse!elaia elrtntsei  esi iseSnpoinpiptons in
+--------------------------------------
+decString for K=45: DrtsB!eelaia elrtntsei  esi iseSnpoinpiptons ina
+--------------------------------------
+decString for K=46: Dst!Beelaia elrtntsei  esi iseSnpoinpiptons inar
+--------------------------------------
+decString for K=47: D!tBeelaia elrtntsei  esi iseSnpoinpiptons inars
+--------------------------------------
+
+...finished!
