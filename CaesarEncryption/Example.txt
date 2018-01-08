@@ -1,0 +1,91 @@
+PS C:\> python CaesarEncryption.py 'Lpu lpumhjolz Jhlzhy Ilpzwpls'
+
+CaesarEncryption.py running on Windows
+--------------------------------------
+Passed string to decrypt (encString): Lpu lpumhjolz Jhlzhy Ilpzwpls
+Changed string to uppercase: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+--------------------------------------
+
+Running decryption...
+
+--------------------------------------
+encString for K=0: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=0: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+--------------------------------------
+encString for K=1: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=1: KOT KOTLGINKY IGKYGX HKOYVOKR
+--------------------------------------
+encString for K=2: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=2: JNS JNSKFHMJX HFJXFW GJNXUNJQ
+--------------------------------------
+encString for K=3: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=3: IMR IMRJEGLIW GEIWEV FIMWTMIP
+--------------------------------------
+encString for K=4: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=4: HLQ HLQIDFKHV FDHVDU EHLVSLHO
+--------------------------------------
+encString for K=5: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=5: GKP GKPHCEJGU ECGUCT DGKURKGN
+--------------------------------------
+encString for K=6: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=6: FJO FJOGBDIFT DBFTBS CFJTQJFM
+--------------------------------------
+encString for K=7: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=7: EIN EINFACHES CAESAR BEISPIEL
+--------------------------------------
+encString for K=8: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=8: DHM DHMEZBGDR BZDRZQ ADHROHDK
+--------------------------------------
+encString for K=9: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=9: CGL CGLDYAFCQ AYCQYP ZCGQNGCJ
+--------------------------------------
+encString for K=10: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=10: BFK BFKCXZEBP ZXBPXO YBFPMFBI
+--------------------------------------
+encString for K=11: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=11: AEJ AEJBWYDAO YWAOWN XAEOLEAH
+--------------------------------------
+encString for K=12: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=12: ZDI ZDIAVXCZN XVZNVM WZDNKDZG
+--------------------------------------
+encString for K=13: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=13: YCH YCHZUWBYM WUYMUL VYCMJCYF
+--------------------------------------
+encString for K=14: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=14: XBG XBGYTVAXL VTXLTK UXBLIBXE
+--------------------------------------
+encString for K=15: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=15: WAF WAFXSUZWK USWKSJ TWAKHAWD
+--------------------------------------
+encString for K=16: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=16: VZE VZEWRTYVJ TRVJRI SVZJGZVC
+--------------------------------------
+encString for K=17: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=17: UYD UYDVQSXUI SQUIQH RUYIFYUB
+--------------------------------------
+encString for K=18: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=18: TXC TXCUPRWTH RPTHPG QTXHEXTA
+--------------------------------------
+encString for K=19: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=19: SWB SWBTOQVSG QOSGOF PSWGDWSZ
+--------------------------------------
+encString for K=20: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=20: RVA RVASNPURF PNRFNE ORVFCVRY
+--------------------------------------
+encString for K=21: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=21: QUZ QUZRMOTQE OMQEMD NQUEBUQX
+--------------------------------------
+encString for K=22: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=22: PTY PTYQLNSPD NLPDLC MPTDATPW
+--------------------------------------
+encString for K=23: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=23: OSX OSXPKMROC MKOCKB LOSCZSOV
+--------------------------------------
+encString for K=24: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=24: NRW NRWOJLQNB LJNBJA KNRBYRNU
+--------------------------------------
+encString for K=25: LPU LPUMHJOLZ JHLZHY ILPZWPLS
+decString for K=25: MQV MQVNIKPMA KIMAIZ JMQAXQMT
+--------------------------------------
+
+...finished!
