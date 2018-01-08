@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 title          : CaesarEncryption.py
-description    : Default description
+description    : Get key K for given encrypted string
 author         : Sebastian Pflaum (240646)
 usage          : python CaesarEncryption.py 'encrypted string'
 example        : python CaesarEncryption.py 'Lpu lpumhjolz Jhlzhy Ilpzwpls'
