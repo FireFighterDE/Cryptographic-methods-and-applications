@@ -1,0 +1,43 @@
+PS C:\> python MonoalphabeticEncryption.py 'ATTACK' 'encrypt' '7'
+MonoalphabeticEncryption.py running on Windows
+--------------------------------------
+Passed string to de-/encrypt (edString): ATTACK
+Modus (decrypt or encrypt): encrypt
+Using given key: 7
+--------------------------------------
+
+Running encryption...
+
+--------------------------------------
+List of decrypted string:
+[{0: 'A'}, {19: 'T'}, {19: 'T'}, {0: 'A'}, {2: 'C'}, {10: 'K'}]
+
+List of encrypted string:
+[{7: 'H'}, {0: 'A'}, {0: 'A'}, {7: 'H'}, {9: 'J'}, {17: 'R'}]
+
+encString for K=7: HAAHJR
+--------------------------------------
+
+...finished!
+
+PS C:\> python MonoalphabeticEncryption.py 'HAAHJR' 'decrypt' '7'
+MonoalphabeticEncryption.py running on Windows
+--------------------------------------
+Passed string to de-/encrypt (edString): HAAHJR
+Modus (decrypt or encrypt): decrypt
+Using given key: 7
+--------------------------------------
+
+Running decryption...
+
+--------------------------------------
+List of encrypted string:
+[{7: 'H'}, {0: 'A'}, {0: 'A'}, {7: 'H'}, {9: 'J'}, {17: 'R'}]
+
+List of decrypted string:
+[{0: 'A'}, {19: 'T'}, {19: 'T'}, {0: 'A'}, {2: 'C'}, {10: 'K'}]
+
+decString for K=7: ATTACK
+--------------------------------------
+
+...finished!
