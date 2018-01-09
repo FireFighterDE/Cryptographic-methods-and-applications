@@ -23,6 +23,9 @@ def main(edString, modus, key):
     print('Modus (decrypt or encrypt): {0}'.format(modus))
     print('Using given key: {0}'.format(key))
     
+    edString = edString.upper()
+    edString = edString.replace(" ", "")
+    
     lengthAlp = int(len(alphabet)) - 1
     
     if(modus == "encrypt"):
